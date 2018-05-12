@@ -1,0 +1,26 @@
+_repo: Van-de-Ganges-naar-den-AmazonenstroomDe-Aarde-en-haar-Volken-1904_28005
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Weber, Ernst
+    gutenberg_agent_id: '33069'
+    url: http://www.gutenberg.org/2009/agents/33069
+description: ''
+gutenberg_issued: '2009-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28005'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+title: 'Van de Ganges naar den Amazonenstroom
+
+  De Aarde en haar Volken, 1904'
+url: http://www.gutenberg.org/ebooks/28005
