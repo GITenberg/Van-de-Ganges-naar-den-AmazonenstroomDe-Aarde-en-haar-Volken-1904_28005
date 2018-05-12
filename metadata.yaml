@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33069'
     url: http://www.gutenberg.org/2009/agents/33069
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28005#Van-de-Ganges-naar-den-AmazonenstroomDe-Aarde-en-haar-Volken-1904
 gutenberg_issued: '2009-02-04'
 gutenberg_type: Text
 identifiers:
